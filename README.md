@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👾
 
-<!--
-**cuatroveintiseis/cuatroveintiseis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy diseñadora industrial de profesión, apasionada por el diseño y la tecnología. Actualmente, me estoy especializando en UX/UI y desarrollo front-end.
 
-Here are some ideas to get you started:
+🌱 **Objetivo Profesional**
+Buscando oportunidades para aplicar mis habilidades en proyectos innovadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contáctame**
+LinkedIn: [Daniela Morales](https://www.linkedin.com/in/daniela-morales-mel%C3%A9ndez-761660137/)  
+¡Estoy abierta a colaboraciones y oportunidades!
+
+⚡ **Skills**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,bootstrap,vue,ai,sass)](https://skillicons.dev)

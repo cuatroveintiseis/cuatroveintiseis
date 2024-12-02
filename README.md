@@ -1,6 +1,6 @@
 <h2 style="text-decoration: underline;">Hi 👾</h2>
 
-Soy diseñadora industrial de profesión, apasionada por el diseño y la tecnología. Actualmente, me estoy especializando en UX/UI y desarrollo front-end.
+Soy diseñadora industrial de profesión, apasionada por el diseño y la tecnología. <br> Actualmente, me estoy especializando en UX/UI y desarrollo front-end.
 
 <h2 style="text-decoration: underline;">🌱 Objetivo Profesional </h2> 
 

@@ -8,7 +8,7 @@ Buscando oportunidades para aplicar mis habilidades en proyectos innovadores.
 
 <h2 style="text-decoration: underline;">📫 Contáctame</h2> 
 
-LinkedIn: [Daniela Morales](https://www.linkedin.com/in/daniela-morales-mel%C3%A9ndez-761660137/)  
+LinkedIn: [Daniela Morales](https://www.linkedin.com/in/danielamoralesmelendez/)  
 
 ¡Estoy abierta a colaboraciones y oportunidades!
 
